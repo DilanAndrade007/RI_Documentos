@@ -93,7 +93,7 @@ nltk.download('wordnet')
 ### Clona este repositorio:
 
 ```bash
-git clone https://github.com/azambrano43/ri_proyecto_1b.git
+git clone https://github.com/DilanAndrade007/RI_Documentos.git
 cd ri_proyecto_1b
 ```
 
